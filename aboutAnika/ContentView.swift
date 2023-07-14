@@ -18,7 +18,7 @@ struct ContentView: View {
                 .edgesIgnoringSafeArea(.all)
             
             VStack {
-                Text("About Anika")
+                Text("About Anika!")
                     .font(.largeTitle)
                     .fontWeight(.bold)
                     .foregroundColor(Color.pink)
